@@ -1,5 +1,5 @@
 # PICO-8 Workshop Notes for UL Gamedevelopment Society
-*Author:* [Darren Kearney](https://darrenk.net)
+By [Darren Kearney](https://darrenk.net)
 
 Notes in the notes/ directory, carts related to the workshop are in the carts/ directory.
 
